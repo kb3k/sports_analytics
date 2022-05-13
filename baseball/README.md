@@ -5,7 +5,7 @@ top player per team
 or top 3 players from dodgers, cubs, sox, angels, and a's
 
 2. what players might be overpaid or underpaid based on their numbers?
-elmb???? batting average, error
+era, batting average. there's a lot more no one cares about
 
 3. sports betting. . . batting averages.
 
